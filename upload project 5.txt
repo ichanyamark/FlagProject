@@ -1,0 +1,11 @@
+Flag-project
+
+Join LMS
+MF203406_Prak. Desain dan Pemrograman Web_TA
+
+Pilih Kelas -> 2024_Kelas 4MIC
+enrolment key -> kelas4MIC_2024
+
+upload
+site -> project yang telah dipublish
+site -> github project kalian
